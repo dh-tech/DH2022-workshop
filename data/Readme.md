@@ -15,6 +15,8 @@
 	- note: this has the additional advantage that the tokenization in this file and in the conll file is identical
  	- participants should perform manual annotations => JSON-LD standoff over the original text
  	- TODO: provide a script to export this as RDF
+- `recogito-out/` output of manual annotation in Recogito
+	- supports export as CSV, JSON-LD, TTL and RDF/XML
 - `bible-web.conll` automated NER annotation, use to illustrate how to work with large-scale manually annotated data
 	- annotated using [SENNA](https://ronan.collobert.com/senna/) (old but fast)
 	- **question**: output format?
