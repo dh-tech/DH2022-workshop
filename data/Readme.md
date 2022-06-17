@@ -4,6 +4,14 @@
 	- given to participants for annotation of persons and places in Recogito (to be tested)
 	  [tbc: this is CES, not TEI, is the bible by Malte in TEI proper?]
  	- participants should perform manual annotations => JSON-LD standoff over the original TEI
+ 	- Note: couldn't be loaded with Recogito, use plain text, instead
+- `bible-web.txt` "source document":
+	- extracted from `bible-web.conll`(see below) using
+
+		cut -f 1  bible-web.conll | perl -pe "s/^\s*\n/<br>/g; s/\s+/ /g; s/<br>/\n/g;" | sed s/'  *'/' '/g > bible-web.txt
+	
+	- note: this has the additional advantage that the tokenization in this file and in the conll file is identical
+ 	- participants should perform manual annotations => JSON-LD standoff over the original text
  	- TODO: provide a script to export this as RDF
 - `bible-web.conll` automated NER annotation, use to illustrate how to work with large-scale manually annotated data
 	- annotated using [SENNA](https://ronan.collobert.com/senna/) (old but fast)
