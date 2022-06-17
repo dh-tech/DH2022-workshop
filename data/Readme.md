@@ -17,6 +17,7 @@
  	- TODO: provide a script to export this as RDF
 - `recogito-out/` output of manual annotation in Recogito
 	- supports export as CSV, JSON-LD, TTL and RDF/XML
+	- the TTL export seems to be incomplete, so work with the JSON-LD export
 - `bible-web.conll` automated NER annotation, use to illustrate how to work with large-scale manually annotated data
 	- annotated using [SENNA](https://ronan.collobert.com/senna/) (old but fast)
 	- **question**: output format?
