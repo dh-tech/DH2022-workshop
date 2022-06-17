@@ -5,6 +5,8 @@
 	  [tbc: this is CES, not TEI, is the bible by Malte in TEI proper?]
  	- participants should perform manual annotations => JSON-LD standoff over the original TEI
  	- Note: couldn't be loaded with Recogito, use plain text, instead
+ 		- this failed because of a missing dtd: `/mnt/data/home/pelagios/recogito2/target/cesDoc.dtd (No such file or directory)` [unsurprisingly, because I uploaded the file only]
+ 		- => let's use plain text input instead of TEI
 - `bible-web.txt` "source document":
 	- extracted from `bible-web.conll`(see below) using
 
