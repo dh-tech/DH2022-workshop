@@ -1,0 +1,3571 @@
+[ {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/a6a86ae8-e9b0-46d0-9427-0a37bbf554cc",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 28903,
+      "end" : 28906
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c32e1769-396b-49df-8abf-cb019bc8c22b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 27883,
+      "end" : 27886
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/fd450ae3-1fb3-44ad-956b-f17ec331c68d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 17113,
+      "end" : 17116
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/1faec574-d769-470d-8a9b-65f2c76367b4",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 13999,
+      "end" : 14002
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e5a8e6af-c4d1-4f2a-a0f2-0a0085d78494",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 10105,
+      "end" : 10108
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b2dc1580-c4f9-46a7-95fa-f18a61892723",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8828,
+      "end" : 8831
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3fac48b8-35ae-49b0-8b6c-863309a78de4",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8422,
+      "end" : 8425
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/eff6bb90-cba0-4d15-b0ce-cdb3d697f697",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5928,
+      "end" : 5931
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/570e2b5b-f2e4-4000-bfed-7ff27ac1c732",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5836,
+      "end" : 5839
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d86a18b0-994c-405c-83a9-fdc0dab91702",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2453,
+      "end" : 2456
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/1aa0835c-86b0-4510-88c8-d32888b1991e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1081,
+      "end" : 1084
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/15f2c72c-ed2d-4ed9-a41c-5a8c94601917",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 735,
+      "end" : 738
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/347b6f21-9299-4f8b-96ef-c0da9a024e4e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:40:05+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5730,
+      "end" : 5738
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Hiddekel"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/11727c75-654b-4fa4-b61d-c7d4505c883e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:34:09+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14322,
+      "end" : 14326
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Seth"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/a8d78003-cb0f-4d98-afa0-2c94cea0e8ae",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:33:19+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 13641,
+      "end" : 13645
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Adam"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/a8b6720f-9ada-4709-a4ec-f5465e8ddbbd",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 27813,
+      "end" : 27816
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/08364d93-e4c0-4433-aeda-bb46f3ee57c3",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 26539,
+      "end" : 26542
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e5226b31-f9aa-4632-a9d7-39f6dd216948",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 22930,
+      "end" : 22933
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b959a9ad-3e65-4a1a-adf3-a1123265377b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 20892,
+      "end" : 20895
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/abb4051b-b496-4414-8936-30bac7b41476",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 10184,
+      "end" : 10187
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0fe20652-4e21-47fb-ad09-7953287f2bc7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8377,
+      "end" : 8380
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/91dabb7d-c04e-4bd3-a35c-a53b99b449f2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 7812,
+      "end" : 7815
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/32e71ef1-4b11-47bf-ab81-030958c9f174",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 6159,
+      "end" : 6162
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7a01ca02-448a-4794-9fbf-33ff7bf2accb",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4991,
+      "end" : 4994
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/84ebea35-b969-4f52-ae38-680a904a7d37",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4854,
+      "end" : 4857
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/742148b4-506a-4380-bf85-172bc7ab20a6",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2257,
+      "end" : 2260
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2fc413d8-6ce0-41d8-a7b2-e50e62434940",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1482,
+      "end" : 1485
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c9c9e381-7db4-4320-a32b-d6f9a91d7297",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1396,
+      "end" : 1399
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/af36871a-b3da-41a0-884e-103c603a6ac0",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 954,
+      "end" : 957
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/59a33ba1-3a7d-4ed1-a872-0fa187e87373",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "http://geo-kima.org/place/22573",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:57+00:00",
+    "purpose" : "identifying"
+  }, {
+    "type" : "Feature",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:57+00:00",
+    "purpose" : "georeferencing"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5630,
+      "end" : 5635
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Gihon"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/62940423-c55f-4ede-bbfc-7c10dddd4aff",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:40:48+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 10427,
+      "end" : 10431
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Eden"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/89d677ab-f498-4dcc-8233-472001620056",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:33:19+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14287,
+      "end" : 14291
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Adam"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/41b5ad30-23a7-499a-8f60-a23b07b341b2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 26662,
+      "end" : 26665
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e0564b24-644a-4d59-9722-305ed1dd392d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 22831,
+      "end" : 22834
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b14829f3-0fb2-42ed-ab9f-f9dcdea93155",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 18446,
+      "end" : 18449
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f11591e5-514d-4e3b-a402-17c6dc115f22",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 18187,
+      "end" : 18190
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d5a36472-5234-4b78-8f20-7eb9c67a829f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 16136,
+      "end" : 16139
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5c351d50-fec9-482f-a6f7-c1ae66f3418a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 16109,
+      "end" : 16112
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/55019227-03a9-486d-ad82-1c3d36bfc1d2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8602,
+      "end" : 8605
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/392071d8-93aa-4108-a88b-23679ef1bf29",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 7341,
+      "end" : 7344
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/885bb84a-1d6e-4a84-ac66-2c6604178006",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 6819,
+      "end" : 6822
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d7e89b6a-595d-4303-831f-fc7b6e921037",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3579,
+      "end" : 3582
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/8eacb81e-c4fb-42cf-9f1d-8288be345fb6",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2122,
+      "end" : 2125
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/15f7a405-2b3a-49c9-b5b0-7c2e33f84a54",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1879,
+      "end" : 1882
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/daf4eeb8-1e0f-4c75-83f0-e646b5a6683d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1743,
+      "end" : 1746
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/b02d2cc2-231b-4a7f-830b-5d7a13b7b5fc",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 354,
+      "end" : 357
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7114aba8-ef24-4ee2-8af2-d7e696042e32",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 263,
+      "end" : 266
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/77faece7-d165-494a-ae79-b24c8e258157",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 203,
+      "end" : 206
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7b9e3155-d50c-442c-b9b9-6fb8a020ed32",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:34:09+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14694,
+      "end" : 14698
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Seth"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/6ee9bc31-0f1f-4ba3-b9a4-7579434c3ad1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:34:09+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14555,
+      "end" : 14559
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Seth"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/380d5aa2-661b-4f20-a704-af267af976ec",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:33:19+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 13943,
+      "end" : 13947
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Adam"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/92940d44-0b34-446e-abd8-58a13cfdfc6b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:34:09+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 13707,
+      "end" : 13711
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Seth"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5cda061a-5f5b-402c-8c38-5f40b1592be9",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:35:46+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 13851,
+      "end" : 13856
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Enosh"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/44fb37ad-0c0c-4a80-add4-40758d354370",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:35:46+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14596,
+      "end" : 14601
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Enosh"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/55fe7a8a-ef23-4d91-aba9-65803efacc00",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:35:46+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14955,
+      "end" : 14960
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Enosh"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/dbc19b31-2e4e-4ca8-9269-f33a5d640267",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 27177,
+      "end" : 27180
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e251a551-fd84-462a-80ef-d86085b795e7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 19863,
+      "end" : 19866
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/a9bf47b0-d42d-4eb9-b0cf-94584ddfe72c",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 17443,
+      "end" : 17446
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/65a10679-c08f-4f79-a454-f3d57e360380",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 15915,
+      "end" : 15918
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2795eca5-20ae-4ae3-8328-bf0e57deac7f",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 13966,
+      "end" : 13969
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/db804890-8ac0-462a-a312-a848389f0739",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 7725,
+      "end" : 7728
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c62b121f-22c3-4b5d-8513-bdb8d0463f4e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 7297,
+      "end" : 7300
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/65c7d1a1-4d75-4713-981c-c9bead932fd8",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 6290,
+      "end" : 6293
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/1390e061-bd52-4add-a432-bf1bbfa98e45",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4535,
+      "end" : 4538
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e8de1103-4d88-4091-929f-c2119d68d2f1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4291,
+      "end" : 4294
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/43eb36df-a173-4d80-b30d-5ecd5f5c38e1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3374,
+      "end" : 3377
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/8481dbff-c2d5-4090-bf49-83379f90e9c7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3356,
+      "end" : 3359
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5aebabcf-1236-4ee5-ab86-5276b4be7c86",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2962,
+      "end" : 2965
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e16e7e6a-eb67-4384-b2e0-1873173d854d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2814,
+      "end" : 2817
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/4053ab46-16e0-405a-9a37-59350e29e4df",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2645,
+      "end" : 2648
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/47eb0af1-f084-478f-9887-c4a8350e92d2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2424,
+      "end" : 2427
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2a2345b1-269c-437e-81b2-890904118209",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2035,
+      "end" : 2038
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/174ca1cc-1ecc-47b4-8662-dcc04bbdd2c2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 1052,
+      "end" : 1055
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/a24e7190-fed7-4ced-99e1-03e01cd3ce9a",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 595,
+      "end" : 598
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/cd82bebd-4e30-4c30-8be1-f22c87862d28",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 141,
+      "end" : 144
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e6b10cfe-4f20-49a8-bdae-109a2a9b9856",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:40:48+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 12661,
+      "end" : 12665
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Eden"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f6cbcae4-7206-4d9d-8b45-e4a63d0ec431",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 18,
+      "end" : 21
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/28d47c9f-4a52-4283-8bfa-d464652e65f1",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:33:19+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 10133,
+      "end" : 10137
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Adam"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0b9d4730-12c8-42bc-80b5-1619a96b3cca",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:33:19+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14143,
+      "end" : 14147
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Adam"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/bb4b4cde-8421-4be5-ba41-8e0b1abc96d7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:33:19+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14096,
+      "end" : 14100
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Adam"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e8d07312-54dc-46df-80d5-e6efd6fdd1e4",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:33:19+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14423,
+      "end" : 14427
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Adam"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d523ef1c-d4e2-46be-900b-09cd5bb1dd49",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:34:09+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 13827,
+      "end" : 13831
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Seth"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2e14c8c5-96d1-496d-b388-495fc39b5ec7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:35:46+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14545,
+      "end" : 14550
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Enosh"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/3aa25e4e-2276-4c36-ad64-a47c3d7ccfe7",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:35:46+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14811,
+      "end" : 14816
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Enosh"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/7186e92d-20fc-4982-84ef-25a9bbd0b26e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:34:09+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14484,
+      "end" : 14488
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Seth"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c302cc11-9af6-433d-8f9d-231af4aa44cd",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 28855,
+      "end" : 28858
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5a576c5f-44a8-42e1-8344-ff0c3036862b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 25795,
+      "end" : 25798
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/754cf870-e0a6-44e5-95d5-07fae113f201",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 24675,
+      "end" : 24678
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f9916ebb-2f34-43e2-8971-763609f15099",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 21789,
+      "end" : 21792
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/6188c91b-547f-4c3f-8fc9-ff41aba8aec9",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 18341,
+      "end" : 18344
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c43c26e0-b627-4ffb-b030-51ba5b177267",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 18292,
+      "end" : 18295
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f79b985e-e028-4b16-a926-2f7454b994eb",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 13720,
+      "end" : 13723
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/d6cf0fd9-d105-4b97-97ea-23d1334409c5",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 10389,
+      "end" : 10392
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/fd04e84b-ac87-469b-b94d-78d5a04d686e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8953,
+      "end" : 8956
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/4cfb6c12-b7c3-4bf5-8051-12fa309948f8",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 8258,
+      "end" : 8261
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/42245c65-c3eb-40de-9947-ef28e16d431d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 7569,
+      "end" : 7572
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/442b216d-f310-448f-af83-7e9094b0d608",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 6658,
+      "end" : 6661
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/bace989e-cbee-46fc-995a-969d584cd3b8",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5106,
+      "end" : 5109
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/045fefde-c60a-405a-8c66-70485864bf29",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4675,
+      "end" : 4678
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/de4d2e29-be1b-428c-92ba-7992315f2e7e",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 4176,
+      "end" : 4179
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/0b0688e3-a39e-450a-be9c-1b942adaaa6d",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3957,
+      "end" : 3960
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/f9336485-b270-4c2c-8195-56d351e8250c",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3291,
+      "end" : 3294
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/4b3585ab-d45d-4ffd-a471-10cb245f3166",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 3253,
+      "end" : 3256
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/463b6788-c12d-4321-a145-02000bbce554",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 2991,
+      "end" : 2994
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/693d7d43-7a6f-4134-9dcc-0f236588044b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 826,
+      "end" : 829
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/dcadeb75-8dc1-4d9a-85ec-d07263f0ae76",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 477,
+      "end" : 480
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/50617ea9-9b50-4844-93a0-052138dba2f2",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:39:31+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 310,
+      "end" : 313
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "God"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/c23046a9-518f-4b75-9aba-19dd032645ad",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:40:48+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 10558,
+      "end" : 10562
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Eden"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/e48cd9dc-eab8-45f7-9317-4b91aeb96a4b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:40:48+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5026,
+      "end" : 5030
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Eden"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/97160d67-4571-45b4-899b-29ebf8781504",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:40:48+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5309,
+      "end" : 5313
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Eden"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/732eb811-c733-4baa-9e6d-73278155b1de",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:40:48+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 5886,
+      "end" : 5890
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Eden"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/615d693b-9c85-4c84-94a8-06a5f9c9082b",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PLACE",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T12:41:06+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 12647,
+      "end" : 12650
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Nod"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/5532c885-cb20-4473-9542-09cc07e363cd",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:33:19+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 9509,
+      "end" : 9513
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Adam"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/2a1d1ddb-f379-4666-988b-5c90b823e1bd",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:34:09+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14266,
+      "end" : 14270
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Seth"
+    } ]
+  }
+}, {
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "id" : "https://recogito.pelagios.org/annotation/961351f0-019d-4fbf-8142-9ed95153ce00",
+  "type" : "Annotation",
+  "generator" : {
+    "id" : "https://recogito.pelagios.org/",
+    "type" : "Software",
+    "name" : "Recogito",
+    "homepage" : "https://recogito.pelagios.org/"
+  },
+  "generated" : "2022-07-01T14:37:39+00:00",
+  "body" : [ {
+    "type" : "SpecificResource",
+    "value" : "PERSON",
+    "creator" : "https://recogito.pelagios.org/robcast",
+    "modified" : "2022-07-01T14:35:46+00:00",
+    "purpose" : "identifying"
+  } ],
+  "target" : {
+    "source" : "https://recogito.pelagios.org/part/b32c0785-1bae-4ef6-84ae-fa155c720c36",
+    "type" : "Text",
+    "label" : "genesis-1-10.txt",
+    "selector" : [ {
+      "type" : "TextPositionSelector",
+      "start" : 14749,
+      "end" : 14754
+    }, {
+      "type" : "TextQuoteSelector",
+      "exact" : "Enosh"
+    } ]
+  }
+} ]
