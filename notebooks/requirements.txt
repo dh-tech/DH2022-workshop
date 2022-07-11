@@ -1,0 +1,6 @@
+igraph
+pandas
+sparqlwrapper
+rdflib
+convert2geojson
+citableclass
