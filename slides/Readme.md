@@ -18,8 +18,8 @@ Note: once slides are *ready*, links should migrate into agenda, and the followi
     - BlazeGraph. (5 min) (Robert)
     - Jupyter NB for overall workflow (Robert)
 
-- Intro to example data (5min) (Christian)
-- Annotating data in Recogito (50min) (Christian)
+- [Intro to example data](recogito.odp) (5min) (Christian)
+- [Annotating data in Recogito](recogito.opd) (50min) (Christian)
      - Walk through with example data (20min)
          - create account
          - download data from GitHub
