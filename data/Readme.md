@@ -26,4 +26,3 @@
 	- TODO(@Christian): converter from CoNLL (using [CoNLL-RDF](https://github.com/acoli-repo/conll-rdf)+SPARQL)
 - next step: consume with Protégé (web protégé?)
 	- manual refinement
-	- NOTE: in addition to recogito information, we need rdfs:labels as orientation for manual re-structuring and search
