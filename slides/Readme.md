@@ -19,7 +19,7 @@ Note: once slides are *ready*, links should migrate into agenda, and the followi
     - Jupyter NB for overall workflow (Robert)
 
 - Intro to example data (5min) (Christian)
-- Annotating data in Recogito (Christian)
+- Annotating data in Recogito (50min) (Christian)
      - Walk through with example data (20min)
          - create account
          - download data from GitHub
