@@ -6,7 +6,7 @@
 
 ## Slide links
 
-Note: once slides are *ready*, links should migrate into agenda.
+Note: once slides are *ready*, links should migrate into agenda, and the following should be removed.
 
 - Introduction (5min) (Rennie)
     - Goal: know how to talk to the people who will eventually implement a project
