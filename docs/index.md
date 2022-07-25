@@ -9,7 +9,7 @@
 - [Introduction to Linked Data, Semantic Web, SPARQL](lod.pdf) (Christian)
 - Tool Introductions
     - [Pelagios/Recogito](intro-recogito.pdf) (Robert)
-    - Protégé (Christian)
+    - [Protégé](protege.pdf) (Christian)
     - BlazeGraph (Robert)
     - Jupyter NB for overall workflow (Robert)
 
