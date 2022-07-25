@@ -7,8 +7,8 @@
     - Goal: know how to talk to the people who will eventually implement a project
 - [DHTech](https://docs.google.com/presentation/d/1cx0nP1AWhiLEzeIRNGXUFt40RxZE1kc6WlnZ7dvwvJg/edit?usp=sharing) (5min) (Julia)
 - [Introduction to Linked Data, Semantic Web, SPARQL](lod.pdf) (Christian)
-- Tool Intros (20min, 5min each)
-    - Pelagios/Recogito (Robert)
+- Tool Introductions
+    - [Pelagios/Recogito](intro-recogito.pdf) (Robert)
     - Protégé (Christian)
     - BlazeGraph (Robert)
     - Jupyter NB for overall workflow (Robert)
