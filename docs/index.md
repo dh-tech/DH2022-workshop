@@ -11,7 +11,7 @@
     - [Pelagios/Recogito](intro-recogito.pdf) (Robert)
     - [Protégé](protege.pdf) (Christian)
     - [BlazeGraph](intro-blazegraph.pdf) (Robert)
-    - Jupyter NB for overall workflow (Robert)
+    - [Jupyter NoteBooks](intro-jupyter.pdf) (Robert)
 
 **9:50am - 10am ET Break**
 
