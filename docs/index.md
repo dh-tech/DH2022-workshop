@@ -6,11 +6,11 @@
 - Introduction (5min) (Rennie)
     - Goal: know how to talk to the people who will eventually implement a project
 - [DHTech](https://docs.google.com/presentation/d/1cx0nP1AWhiLEzeIRNGXUFt40RxZE1kc6WlnZ7dvwvJg/edit?usp=sharing) (5min) (Julia)
-- Intro to the Semantic Web, Linked Data, SPARQL (20min) (Christian)
+- [Introduction to Linked Data, Semantic Web, SPARQL](lod.pdf) (Christian)
 - Tool Intros (20min, 5min each)
     - Pelagios/Recogito (Robert)
     - Protégé (Christian)
-    - BlazeGraph. (Robert)
+    - BlazeGraph (Robert)
     - Jupyter NB for overall workflow (Robert)
 
 **9:50am - 10am ET Break**
