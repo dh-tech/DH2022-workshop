@@ -1,15 +1,15 @@
 # LOD in Practice. Tutorial at DH2022, Tokyo/virtually, July 25, 2022
 
-## Agenda (preliminary)
+## Agenda
 
 **9am - 9:50am ET**
-- Introduction (5min) (Rennie)
-    - Goal: know how to talk to the people who will eventually implement a project
-- [DHTech](https://docs.google.com/presentation/d/1cx0nP1AWhiLEzeIRNGXUFt40RxZE1kc6WlnZ7dvwvJg/edit?usp=sharing) (5min) (Julia)
-- [Introduction to Linked Data, Semantic Web, SPARQL](lod.pdf) (Christian)
-- Tool Introductions
+- Introductions
+	- General Introduction (Rennie)
+	- [DHTech](https://docs.google.com/presentation/d/1cx0nP1AWhiLEzeIRNGXUFt40RxZE1kc6WlnZ7dvwvJg/edit?usp=sharing) (5min) (Julia)
+	- [Linked Data, Semantic Web, SPARQL](lod.pdf) (Christian)
+- Tools to be used
     - [Pelagios/Recogito](intro-recogito.pdf) (Robert)
-    - [Protégé](protege.pdf) (Christian)
+    - [Protégé](intro-protege.pdf) (Christian)
     - [BlazeGraph](intro-blazegraph.pdf) (Robert)
     - [Jupyter NoteBooks](intro-jupyter.pdf) (Robert)
 
