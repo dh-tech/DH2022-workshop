@@ -5,7 +5,7 @@
 **9am - 9:50am ET**
 - Introductions
 	- General Introduction (Rennie)
-	- [DHTech](https://docs.google.com/presentation/d/1cx0nP1AWhiLEzeIRNGXUFt40RxZE1kc6WlnZ7dvwvJg/edit?usp=sharing) (5min) (Julia)
+	- [DHTech](dhtech.pdf) (5min) (Julia)
 	- [Linked Data, Semantic Web, SPARQL](lod.pdf) (Christian)
 - Tools to be used
     - [Pelagios/Recogito](intro-recogito.pdf) (Robert)
