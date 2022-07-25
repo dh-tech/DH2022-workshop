@@ -16,17 +16,11 @@
 **9:50am - 10am ET Break**
 
 **10am - 10:55am ET**
-- Intro to example data (5min) (Christian)
-- Annotating data in Recogito (Christian)
-     - Walk through with example data (20min)
-         - create account
-         - download data from GitHub
-         - upload data into Recogito
-         - hand-annotate a few terms
-         - run NER
-         - annotate "father of" relationship
-         - export JSON-LD
-     - Work with own dataset (30min)
+- [Annotating data in Recogito](recogito.pdf) (Christian)
+	 - Intro to example data
+	 	- Get it from https://tinyurl.com/mtukhwtk (= https://github.com/dh-tech/DH2022-workshop/blob/main/data/genesis-1-10.txt)
+     - Walk through with example data
+     - <b>Work with your own data!</b> (30min)
 
 **10:55am - 11:15am ET**
 -  Using Protege (Robert)
