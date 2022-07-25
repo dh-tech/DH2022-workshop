@@ -4,7 +4,7 @@
 
 **9am - 9:50am ET**
 - Introductions
-	- General Introduction (Rennie Mapp)
+	- General Introduction
 	- [DHTech](dhtech.pdf) (Julia Damerow)
 	- [Linked Data, Semantic Web, SPARQL](lod.pdf) (Christian Chiarcos)
 - Tools to be used
@@ -17,8 +17,8 @@
 
 **10am - 10:55am ET**
 - [Annotating data in Recogito](recogito.pdf) (Christian Chiarcos)
-	 - Intro to example data
-	 	- Get it from https://tinyurl.com/mtukhwtk (= https://github.com/dh-tech/DH2022-workshop/blob/main/data/genesis-1-10.txt)
+	 - Example data: Get it from [https://tinyurl.com/mtukhwtk](https://tinyurl.com/mtukhwtk)
+	   (= https://github.com/dh-tech/DH2022-workshop/blob/main/data/genesis-1-10.txt)
      - Walk through with example data
      - <b>Work with your own data!</b> (30min)
 
@@ -33,7 +33,8 @@
 
 **11:20am - 12:10pm ET**
 -  Ingest data into Blazegraph (Robert Casties, Malte Vogl)
-    - [https://c101-053.cloud.gwdg.de/](https://c101-053.cloud.gwdg.de/)
+	- Jupyter notebooks: [https://github.com/dh-tech/DH2022-workshop/tree/main/notebooks](https://github.com/dh-tech/DH2022-workshop/tree/main/notebooks)
+    - BlazeGraph instance: [https://c101-053.cloud.gwdg.de/](https://c101-053.cloud.gwdg.de/)
     - Walk through with example data (20min)
          - map relationship to ontology relation
          - run notebooks to ingest data
